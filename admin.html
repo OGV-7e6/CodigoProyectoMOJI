@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin</title>
+    <!-- BOOTSTRAP -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+    <!-- PROPIO -->
+    <link rel="stylesheet" href="styles/style.css">
+    <script src="js/clases.js"></script>
+    <script src="js/admin.js" defer></script>
+    <script src="js/cambiarUsuario.js" defer></script>
+</head>
+
+<body>
+    <script src="js/navBarLoader.js"></script>
+    <main class="container">
+        <div class="container-fluid d-flex justify-content-center my-5">
+            <h1>Añadir niveles</h1>
+        </div>
+
+        <form autocomplete="off" class="container d-flex border border-dark flex-wrap mod-container">
+            <!-- caja de todo -->
+            <div class="d-flex flex-column col-12 col-md-4 m-1"> <!-- caja pregunta y dificultad -->
+                <label for="pregunta">Pregunta</label>
+                <input type="text" name="pregunta" id="pregunta">
+                <label for="dificultad">Dificultad</label>
+                <select class="form-select" id="dificultad" name="dificultad">
+                    <option value="Facil" selected>Facil</option>
+                    <option value="Media">Media</option>
+                    <option value="Difícil">Difícil</option>
+                </select>
+            </div>
+
+            <div class=" col-12 col-md-8 m-1">
+                <fieldset class="py-4 d-flex flex-column justify-content-center"> <!-- caja de respuestas -->
+                    <legend>Respuestas (marca la correcta)</legend>
+
+                    <div class="border border-dark p-3"> <!-- caja input texto y checkmark -->
+                        <div>
+                            <input type="text" id="respuesta1" name="respuesta1">
+                            <input type="checkbox" id="correcta1" name="opcion" checked>
+                        </div>
+                        <div>
+                            <input type="text" id="respuesta2" name="respuesta2">
+                            <input type="checkbox" id="correcta2" name="opcion">
+                        </div>
+                        <div>
+                            <input type="text" id="respuesta3" name="respuesta3">
+                            <input type="checkbox" id="correcta3" name="opcion">
+                        </div>
+                        <div>
+                            <input type="text" id="respuesta4" name="respuesta4">
+                            <input type="checkbox" id="correcta4" name="opcion">
+                        </div>
+                    </div>
+                    <br>
+                    <button id="submit">Añadir nuevo nivel</button>
+                </fieldset>
+            </div>
+            <div id="error-form-admin"></div>
+        </form>
+    </main>
+</body>
+
+</html>

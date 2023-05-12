@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Principal</title>
+    <!-- BOOTSTRAP -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
+    <!-- PROPIO -->
+    <script src="js/clases.js"></script>
+    <script src="js/principal.js" defer></script>
+    <script src="js/rankingTop10.js" defer></script>
+    <script src="js/cambiarUsuario.js" defer></script>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+
+<body>
+    <script src="js/navBarLoader.js"></script>
+    <!-- CUERPO DE LA PAGINA -->
+    <main class="main">
+        <div class="wrapper">
+            <div class="container mod-container p-4">
+
+                <div class="row">
+                    <!-- MINI RANKING -->
+                    <div class="col-12 col-lg-5 my-1">
+                        <aside class="d-flex flex-column">
+                            <div id="mini-ranking" class="border border-dark d-flex flex-column bg-light">
+
+                                <table class="table table-light table-striped">
+                                    <thead>
+                                        <tr>
+                                            <td>Ranking</td>
+                                            <td>Nick</td>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+
+                                    </tbody>
+                                </table>
+                                <a href="ranking.html" class="boton mar-auto my-1">Veure ranking</a>
+                            </div>
+
+                        </aside>
+                    </div>
+
+                    <!-- ESPACIADOR -->
+                    <div class="col-md-1 col-lg-1"></div>
+
+                    <!-- SLIDESHOW / SELECTOR DE JUEGO POR DIFICULTAD -->
+                    <div class="col-12 col-md-10 col-lg-6  my-1">
+                        <div class="container-flex d-flex flex-wrap justify-content-center">
+                            <h2>DIFICULTAD</h2>
+                            <div class="d-flex">
+                                <!-- BOTON DE RETROCESO -->
+                                <button class="boton mx-2" type="button" data-bs-target="#carouselExampleControls"
+                                    data-bs-slide="prev">
+                                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Previous</span>
+                                </button>
+                                <!-- SLIDE -->
+                                <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel"
+                                    data-bs-interval="false">
+                                    <div class="carousel-inner">
+                                        <!-- DIFICULTAD FACIL (1) -->
+                                        <div class="carousel-item active">
+                                            <button id="FACIL">
+                                                <img src="src/Placeholder-1.png" class="d-block w-100">
+                                            </button>
+                                        </div>
+                                        <!-- DIFICULTAD MEDIA (2) -->
+                                        <div class="carousel-item">
+                                            <button id="MEDIA">
+                                                <img src="src/Placeholder-2.png" class="d-block w-100"></button>
+                                        </div>
+                                        <!-- DIFICULTAD DIFICIL (3) -->
+                                        <div class="carousel-item">
+                                            <button id="DIFICIL">
+                                                <img src="src/Placeholder-3.png" class="d-block w-100"></button>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- BOTON DE AVANCE -->
+                                <button class="boton mx-2" type="button" data-bs-target="#carouselExampleControls"
+                                    data-bs-slide="next">
+                                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                    <span class="visually-hidden">Next</span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+</body>
+
+</html>

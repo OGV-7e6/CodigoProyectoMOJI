@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,200;0,400;0,700;1,700&display=swap');
+
+* {
+    font-family: 'Roboto Mono', monospace;
+}
+
+html, body{
+    height: 100vh;
+}
+
+body{
+    background: linear-gradient(-5deg, #fefefe 0%, #b0c3fe 50%, #8ca8fe 75%, #3f6fff 100%) no-repeat;
+}
+
+.boton {
+    font: bold 15px Arial;
+    text-decoration: none;
+    background-color: #3F6FFF;
+    color: #BECEFE;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #3F6FFF;
+    border-right: 1px solid #000;
+    border-bottom: 1px solid #000;
+    border-left: 1px solid #3F6FFF;
+    border-radius: 0.5em;
+    filter: drop-shadow( 0.1rem 0.15rem 0.08rem #000);
+}
+
+.boton:hover {
+    background-color: #7F9FFE;
+    color: #BECEFE;
+    border-top: 1px solid #3F6FFF;
+    border-right: 1px solid #3F6FFF;
+    border-bottom: 1px solid #3F6FFF;
+    border-left: 1px solid #3F6FFF;
+    filter: none;
+}
+
+.logo {
+    width: 100%;
+    height: 100%;
+}
+
+.main {
+    height: 90%;
+    width: 100%;
+    display: table;
+}
+
+.wrapper {
+    display: table-cell;
+    height: 100%;
+    vertical-align: middle;
+}
+
+.filter-btn{
+    height: 1rem;
+    aspect-ratio: 1 / 1;
+}
+
+
+/* CLASES ATOMICAS */
+
+.wid-75 {
+    width: 75%;
+}
+.wid-auto {
+    width: fit-content;
+
+}
+.mar-auto{
+    margin: auto;
+}
+
+
+
+/* MODIFICACIONES PARA BOOTSTRAP 5 */
+.mod-container {
+    background: #fefefe7d;
+    filter: blur();
+    border-radius: 0.2em;
+    border: #000 solid 0.01em;
+}
+
+.mod-btn {
+    color: #000;
+    background-color: #7F9FFE;
+    margin: 1%;
+    border-radius: 0.5em;
+}
+
+.mod-btn:hover {
+    color: #000;
+    background-color: #BECEFE;
+}
+
+.mod-nav {
+    background-color: #0040FF;
+}

@@ -1,0 +1,215 @@
+//LVL1//
+¿Cuál es la capital de España?
+Respuestas:
+
+Madrid (correcta)
+Barcelona
+Valencia
+Sevilla
+¿En qué país se encuentra la Torre Eiffel?
+Respuestas:
+
+Francia (correcta)
+Italia
+España
+Reino Unido
+¿Cuál es el río más largo del mundo?
+Respuestas:
+
+Amazonas (correcta)
+Nilo
+Yangtsé
+Misisipi
+¿Quién escribió "Don Quijote de la Mancha"?
+Respuestas:
+
+Miguel de Cervantes (correcta)
+Gabriel García Márquez
+Jorge Luis Borges
+Mario Vargas Llosa
+¿Cuál es el océano más grande del mundo?
+Respuestas:
+
+Pacífico (correcta)
+Atlántico
+Índico
+Ártico
+¿En qué país se encuentra la Gran Muralla China?
+Respuestas:
+
+China (correcta)
+Japón
+Corea del Sur
+Vietnam
+¿Cuál es el metal más abundante en la corteza terrestre?
+Respuestas:
+
+Aluminio (correcta)
+Hierro
+Plomo
+Oro
+¿En qué continente se encuentra Egipto?
+Respuestas:
+
+África (correcta)
+Asia
+Europa
+América
+¿Cuál es la ciudad más poblada del mundo?
+Respuestas:
+
+Tokio (correcta)
+Nueva York
+Shanghái
+São Paulo
+¿Quién pintó "La noche estrellada"?
+Respuestas:
+
+Vincent van Gogh (correcta)
+Pablo Picasso
+Salvador Dalí
+Claude Monet
+//////
+//LVL2//
+¿Qué guerra comenzó después de la invasión de Polonia por parte de Alemania en 1939?
+Respuestas:
+
+Segunda Guerra Mundial (correcta)
+Primera Guerra Mundial
+Guerra Fría
+Guerra de Vietnam
+¿Quién fue el primer presidente de los Estados Unidos?
+Respuestas:
+
+George Washington (correcta)
+Thomas Jefferson
+John Adams
+Abraham Lincoln
+¿En qué país se encuentra el Monte Kilimanjaro?
+Respuestas:
+
+Tanzania (correcta)
+Kenia
+Uganda
+Etiopía
+¿Cuál es la velocidad de la luz en el vacío?
+Respuestas:
+
+299,792,458 metros por segundo (correcta)
+100,000,000 metros por segundo
+500,000,000 metros por segundo
+1,000,000,000 metros por segundo
+¿En qué año se fundó la compañía Apple?
+Respuestas:
+
+1976 (correcta)
+1984
+1991
+2000
+¿Cuál es el océano más grande del mundo?
+Respuestas:
+
+Océano Pacífico (correcta)
+Océano Atlántico
+Océano Índico
+Océano Ártico
+¿Quién escribió "La Ilíada" y "La Odisea"?
+Respuestas:
+
+Homero (correcta)
+Virgilio
+Ovidio
+Sófocles
+¿Qué animal es conocido como el "rey de la selva"?
+Respuestas:
+
+León (correcta)
+Tigre
+Oso
+Elefante
+¿En qué país se encuentra la Torre Eiffel?
+Respuestas:
+
+Francia (correcta)
+España
+Italia
+Alemania
+¿Qué instrumento se utiliza para medir la temperatura corporal?
+Respuestas:
+
+Termómetro (correcta)
+Barómetro
+Higrómetro
+Anemómetro
+//////
+//LVL3//
+¿En qué año se fundó la ciudad de Roma?
+Respuestas:
+a) 753 a.C.
+b) 509 a.C.
+c) 27 a.C.
+d) 64 d.C.
+
+¿Quién escribió "La Odisea"?
+Respuestas:
+a) Homero
+b) Sófocles
+c) Esquilo
+d) Eurípides
+
+¿Cuál es la obra más famosa de William Shakespeare?
+Respuestas:
+a) Hamlet
+b) Romeo y Julieta
+c) Otelo
+d) Macbeth
+
+¿Cuál es el río más largo del mundo?
+Respuestas:
+a) El Nilo
+b) El Amazonas
+c) El Yangtsé
+d) El Misisipi
+
+¿Cuál es el océano más grande del mundo?
+Respuestas:
+a) Pacífico
+b) Atlántico
+c) Índico
+d) Ártico
+
+¿Cuál es la capital de Australia?
+Respuestas:
+a) Sídney
+b) Melbourne
+c) Brisbane
+d) Canberra
+
+¿Qué científico propuso la teoría de la relatividad?
+Respuestas:
+a) Albert Einstein
+b) Isaac Newton
+c) Galileo Galilei
+d) Stephen Hawking
+
+¿En qué país se encuentra el Taj Mahal?
+Respuestas:
+a) India
+b) Pakistán
+c) Nepal
+d) Bangladesh
+
+¿Cuál es la montaña más alta del mundo?
+Respuestas:
+a) El Everest
+b) El K2
+c) El Kangchenjunga
+d) El Lhotse
+
+¿En qué año se inventó la primera computadora electrónica?
+Respuestas:
+a) 1942
+b) 1952
+c) 1962
+d) 1972
+//////
